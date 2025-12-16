@@ -27,7 +27,7 @@ const Hero = () => {
                 textShadow: "2px 2px 8px rgba(0, 0, 0, 0.2)",
               }}
             >
-              SEJA O ESPECIALISTA<span className="text-accent"> QUE O MERCADO</span> PROCURA.
+              SEJA O ESPECIALISTA<span className="text-accent"> QUE O MERCADO</span> ESTÁ BUSCANDO.
             </h1>
 
             <p className="text-xl text-white/90 leading-relaxed mb-8">
