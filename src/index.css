@@ -17,8 +17,8 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 220 30% 20%;
 
-    /* Brand colors - Coral + Gold palette */
-    --primary: 350 85% 60%;
+    /* Brand colors - Lilac + Gold palette */
+    --primary: 270 65% 55%;
     --primary-foreground: 0 0% 100%;
     
     --secondary: 42 95% 55%;
@@ -43,7 +43,7 @@ All colors MUST be HSL.
 
     --border: 220 15% 90%;
     --input: 220 15% 90%;
-    --ring: 350 85% 60%;
+    --ring: 270 65% 55%;
 
     --radius: 0.75rem;
     
@@ -78,7 +78,7 @@ All colors MUST be HSL.
     --popover: 220 30% 12%;
     --popover-foreground: 0 0% 98%;
 
-    --primary: 350 85% 60%;
+    --primary: 270 65% 55%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 42 95% 55%;
@@ -124,6 +124,11 @@ All colors MUST be HSL.
 }
 
 @layer utilities {
+  /* Lilac text color for highlights */
+  .text-lilac {
+    color: hsl(270 65% 55%) !important;
+  }
+
   /* Animated gradient background - Magenta dominant, coral and gold brief */
   .gradient-animated {
     background: linear-gradient(

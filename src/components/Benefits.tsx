@@ -28,7 +28,7 @@ const Benefits = () => {
           <div className="animate-fade-in">
             <h2 className="text-2xl md:text-4xl lg:text-5xl xl:text-6xl font-extrabold text-white mb-3 md:mb-6 leading-tight">
               A PÓS{" "}
-              <span className="text-primary">MAIS RÁPIDA</span>
+              <span className="text-lilac">MAIS RÁPIDA</span>
               <br />
               DO MERCADO!
             </h2>
