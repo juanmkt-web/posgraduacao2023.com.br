@@ -24,8 +24,8 @@ All colors MUST be HSL.
     --secondary: 42 95% 55%;
     --secondary-foreground: 0 0% 10%;
     
-    /* Coral light for benefits section */
-    --cyan-light: 350 80% 65%;
+    /* Lilac for highlights in dark sections */
+    --cyan-light: 270 65% 55%;
     --cyan-light-foreground: 0 0% 100%;
 
     /* Dark blue for backgrounds - mantido */
