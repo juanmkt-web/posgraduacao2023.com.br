@@ -8,7 +8,7 @@ const testimonials = [
   {
     id: 1,
     quote:
-      "Minha didática mudou completamente. As práticas pedagógicas do curso me ajudaram a tornar as aulas de Filosofia muito mais engajadoras e conectadas com a realidade dos alunos. Recomendo demais!",
+      "Eu queria expandir minha atuação clínica para a área pericial. A pós me trouxe o conhecimento jurídico que faltava, e hoje sinto total segurança para atuar como assistente técnica em processos.",
     name: "Beatriz Cardoso",
     course: "Psicologia Forense e Jurídica",
     photo: beatrizFoto,
@@ -16,7 +16,7 @@ const testimonials = [
   {
     id: 2,
     quote:
-      "Atuar na interface entre Direito e Psicologia exige precisão. A Pós me entregou o embasamento técnico necessário para elaborar laudos e pareceres com total segurança e credibilidade!",
+      "O maior desafio era atrair a atenção dos alunos para a literatura. As metodologias do curso renovaram minha didática e hoje consigo tornar as aulas de português muito mais dinâmicas e participativas.",
     name: "Iolanda Ferreira",
     course: "Docência Em Letras e Práticas Pedagógicas",
     photo: iolandaFoto,
@@ -24,7 +24,7 @@ const testimonials = [
   {
     id: 3,
     quote:
-      "Eu precisava de algo que fosse além da teoria da graduação. O curso é 100% voltado para a rotina contábil real. Hoje me sinto muito mais preparado para lidar com as demandas fiscais do dia a dia.",
+      "A contabilidade vai muito além dos números, exige estratégia. O curso abriu minha visão para a gestão do negócio e me deu ferramentas para entregar muito mais valor aos meus clientes.",
     name: "Emanuel Tanaka",
     course: "Gestão Contábil",
     photo: emanuelFoto,
