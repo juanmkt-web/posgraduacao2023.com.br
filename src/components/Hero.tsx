@@ -27,12 +27,12 @@ const Hero = () => {
                 textShadow: "2px 2px 8px rgba(0, 0, 0, 0.2)",
               }}
             >
-              A PÓS-GRADUAÇÃO CERTA<span className="text-accent"> PARA O SUCESSO</span> PROFISSIONAL.
+              SEJA O ESPECIALISTA<span className="text-accent"> QUE O MERCADO</span> PROCURA.
             </h1>
 
             <p className="text-xl text-white/90 leading-relaxed mb-8">
-              Conquiste o reconhecimento que o mercado exige estudando 100% online. A qualificação ideal no seu próprio
-              ritmo.
+              Cursos práticos e objetivos para quem quer resultados reais. Aprenda com quem entende e aplique
+              imediatamente na sua profissão.
             </p>
 
             <div className="mb-8">
@@ -45,7 +45,7 @@ const Hero = () => {
                   size="lg"
                   className="bg-accent text-accent-foreground hover:bg-accent/80 font-bold text-lg px-10 py-7 rounded-full shadow-xl hover:shadow-2xl transition-all hover:-translate-y-1 animate-pulse-cta"
                 >
-                  QUERO EVOLUIR AGORA <ArrowRight className="ml-2 h-5 w-5" />
+                  COMEÇAR AGORA MESMO <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
               </a>
             </div>
