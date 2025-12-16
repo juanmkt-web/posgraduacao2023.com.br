@@ -18,7 +18,7 @@ const testimonials = [
     quote:
       "Atuar na interface entre Direito e Psicologia exige precisão. A Pós me entregou o embasamento técnico necessário para elaborar laudos e pareceres com total segurança e credibilidade!",
     name: "Iolanda Ferreira",
-    course: "Docência em Filosofia e Práticas Pedagógicas",
+    course: "Docência Em Letras e Práticas Pedagógicas",
     photo: iolandaFoto,
   },
   {
