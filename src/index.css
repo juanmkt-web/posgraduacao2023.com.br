@@ -124,11 +124,18 @@ All colors MUST be HSL.
 }
 
 @layer utilities {
-  /* Animated gradient background */
+  /* Animated gradient background - Magenta dominant, coral and gold brief */
   .gradient-animated {
-    background: linear-gradient(135deg, hsl(var(--gradient-cyan)), hsl(var(--gradient-purple)), hsl(var(--gradient-blue)));
-    background-size: 400% 400%;
-    animation: gradientAnimation 8s ease infinite;
+    background: linear-gradient(
+      135deg, 
+      hsl(320 75% 50%) 0%,
+      hsl(320 75% 50%) 60%,
+      hsl(350 85% 60%) 75%,
+      hsl(42 95% 55%) 90%,
+      hsl(42 95% 55%) 100%
+    );
+    background-size: 300% 300%;
+    animation: gradientAnimation 10s ease infinite;
   }
   
   @keyframes gradientAnimation {
