@@ -10,7 +10,7 @@ const testimonials = [
     quote:
       "Minha didática mudou completamente. As práticas pedagógicas do curso me ajudaram a tornar as aulas de Filosofia muito mais engajadoras e conectadas com a realidade dos alunos. Recomendo demais!",
     name: "Beatriz Cardoso",
-    course: "Docência em Filosofia e Práticas Pedagógicas",
+    course: "Psicologia Forense e Jurídica",
     photo: beatrizFoto,
   },
   {
@@ -18,7 +18,7 @@ const testimonials = [
     quote:
       "Atuar na interface entre Direito e Psicologia exige precisão. A Pós me entregou o embasamento técnico necessário para elaborar laudos e pareceres com total segurança e credibilidade!",
     name: "Iolanda Ferreira",
-    course: "Psicologia Forense e Jurídica",
+    course: "Docência em Filosofia e Práticas Pedagógicas",
     photo: iolandaFoto,
   },
   {
