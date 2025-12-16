@@ -1,7 +1,7 @@
 import { Quote } from "lucide-react";
-import fredericoFoto from "@/assets/frederico-almeida.png";
-import helenaFoto from "@/assets/helena-miller.png";
-import maiaFoto from "@/assets/maia-souza.png";
+import beatrizFoto from "@/assets/beatriz-cardoso.png";
+import iolandaFoto from "@/assets/iolanda-ferreira.png";
+import emanuelFoto from "@/assets/emanuel-tanaka.png";
 import { useState, useEffect } from "react";
 
 const testimonials = [
@@ -9,25 +9,25 @@ const testimonials = [
     id: 1,
     quote:
       "Minha didática mudou completamente. As práticas pedagógicas do curso me ajudaram a tornar as aulas de Filosofia muito mais engajadoras e conectadas com a realidade dos alunos. Recomendo demais!",
-    name: "Frederico Almeida",
+    name: "Beatriz Cardoso",
     course: "Docência em Filosofia e Práticas Pedagógicas",
-    photo: fredericoFoto,
+    photo: beatrizFoto,
   },
   {
     id: 2,
     quote:
       "Atuar na interface entre Direito e Psicologia exige precisão. A Pós me entregou o embasamento técnico necessário para elaborar laudos e pareceres com total segurança e credibilidade!",
-    name: "Helena Miller",
+    name: "Iolanda Ferreira",
     course: "Psicologia Forense e Jurídica",
-    photo: helenaFoto,
+    photo: iolandaFoto,
   },
   {
     id: 3,
     quote:
-      "Eu precisava de algo que fosse além da teoria da graduação. O curso é 100% voltado para a rotina contábil real. Hoje me sinto muito mais preparada para lidar com as demandas fiscais do dia a dia.",
-    name: "Maia Souza",
+      "Eu precisava de algo que fosse além da teoria da graduação. O curso é 100% voltado para a rotina contábil real. Hoje me sinto muito mais preparado para lidar com as demandas fiscais do dia a dia.",
+    name: "Emanuel Tanaka",
     course: "Gestão Contábil",
-    photo: maiaFoto,
+    photo: emanuelFoto,
   },
 ];
 
